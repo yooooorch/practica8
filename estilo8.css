@@ -1,0 +1,34 @@
+fieldset{
+border:8px solid #dcf442;
+background-color: cornsilk;
+
+
+}
+div{
+margin: .2em 0;
+margin-bottom: 0px;    
+}
+div label {
+    width: 16%;
+    float:left;
+    
+    
+}
+.rojo{
+    background-color: red;
+}
+
+
+.lila{
+    background-color: blueviolet
+    
+}
+label:hover{
+   
+   font-size:30px; 
+}
+fieldset{
+    margin-bottom:10px;
+    
+    
+}
